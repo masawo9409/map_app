@@ -27,4 +27,5 @@
         @method('delete')
         <button type="submit" onclick="if(!confirm('削除していいですか?')){return false}">削除する</button>
     </form>
+
 @endsection 
